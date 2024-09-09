@@ -44,7 +44,26 @@ Airflow : [Apache Airflow]
   One can easily visulaize data pipline's:
     Dependency, Proggress, Logs, Errors, Code, Success and Failed status.
 
-  From above defination, one question arieses, Workflow ? What is the workflow and what its significance in Airflow ?
+  From above defination, one question arieses ? What is the workflow, data pipline and orchestrationand? what its significance in Airflow ?
+
+  Workflow : Its a system to manager repetative processes and task which occur in a partiular order. 
+  In other words, It is a set of tasks and steps which can be scheduled, intiated, and monitored. 
+  Workflows are used to process, build application and process data.
+
+  Here are some benefits of using workflows in cloud computing: 
+  
+  ** Reduced errors:** Manual steps can lead to errors, which can be costly and slow down business processes. 
+                       Workflow automation can help reduce errors and make systems more efficient. 
+  
+  **Improved collaboration:** Workflows can help solve communication issues and improve collaboration. 
+ 
+  **Reduced redundancies:** Workflows can help reduce redundancies in steps and human error. 
+ 
+  **Increased business compliance:** Workflows can help support business compliance. 
+ 
+  **Lowered costs:** Workflows can help lower costs by guiding information and task flow more efficiently. 
+ 
+  **Increased focus:** Workflows can help employees focus on higher-value work
 
   
   
