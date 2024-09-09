@@ -5,8 +5,10 @@
 This repository has been created to learn, code and deep dive to Airflow concepts, its uses and functioning, to enable effective and best way to use the Airflow with Python.
 
 **How much python is required for Apache Airflow ?**
+
   This question often comes in mind of an individual, or a person who just started to learn, how much python they required to learn and start writing airflow dags ?
   For startup, we just need fundamental understanding of Python :
+  
   **1. Basic Python syntax**
        Variables
        Datatypes
