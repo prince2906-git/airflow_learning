@@ -49,6 +49,20 @@ Airflow : [Apache Airflow]
   Workflow : Its a system to manager repetative processes and task which occur in a partiular order. 
   In other words, It is a set of tasks and steps which can be scheduled, intiated, and monitored. 
   Workflows are used to process, build application and process data.
+  Workflows can appear as a series of steps in a checklist, or as a diagram that visualizes those steps.
+
+  The following is an example of a simple support workflow:
+
+  1.  Carl, a customer, **starts** a support request.
+  2.  The open case is **assigned** to Sasha, a Support Representative.
+  3.  Sasha receives the assigned case and asks Carl for information. While waiting for the reply, the case’s status is **pending**.
+  4.  After Carl provides the requested information, Sasha replies with a solution and then updates the case’s status to **resolved**.
+  5.  Carl receives the answer, as well as a survey link where he can provide feedback about his support request.
+  6.  He is delighted with Sasha’s quick response and gives high ratings in the survey. The case’s status is updated to **closed**.
+
+In this workflow, the steps are “start”, “assign”, “resolve”, and “close”. The states are “open”, “assigned”, “pending”, “resolved”, and “closed”. Steps move the process from state to state along a path until the workflow is completed.
+
+    
 
   Here are some benefits of using workflows in cloud computing: 
   
