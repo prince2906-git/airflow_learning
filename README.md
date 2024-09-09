@@ -111,7 +111,14 @@ Workflows can help with any computational problem or business process that can b
 
 **Media processing –** Extract data from PDF documents or images for processing. Split and transcode video using massive parallelization. 
 
-  
+
+Workflow Orchestration Services by AWS, Azure and GCP 
+
+GCP -   Cloud Composer (Based on Airflow)
+AWS -   Amazon Data Pipeline, AWS Glue, Managed Workflows for Apache Airflow.
+Azure - Azure Data Factory
+
+
   
   
 
