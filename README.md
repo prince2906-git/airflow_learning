@@ -19,8 +19,8 @@ How much python is required for Apache Airflow ?
 
   3.  Function and Classes
          Airflow task are often written as Python functions, so you need to know
-            >> How to define function and use functions ?
-            >> Familarity with OOPS programming in Python
+            How to define function and use functions ?
+            Familarity with OOPS programming in Python
 
   4. File Handling
        Reading & writing files
