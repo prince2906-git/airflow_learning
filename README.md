@@ -30,7 +30,30 @@ How much python is required for Apache Airflow ?
 
   6.  Airflow uses Jinja Templating, so basic templating knowledge can be helpful.
 
-Before starting the airflow, lets first 
+Before we start designing the airflow dags, lets first understand, 
+  What is Airflow ? 
+  What's before Airflow ?
+  What is the use of Airflow ?
+  Applications of Airflow ?
+  Advantages and Disadvantages of Airflow ?
+  Alternative of Airflow ?
+
+Airflow : [Apache Airflow]
+  Airflow is a open-source tool to programatically author, monitor and schedule **workflows**.
+  It is robust platform used by Data engineers to orchastrate workflows or data piplines. 
+  One can easily visulaize data pipline's:
+    Dependency, Proggress, Logs, Errors, Codes, Success and Failed status.
+
+  From above defination, one question arieses, Workflow ? What is the workflow and what its significance in Airflow ?
+
+  
+  
+
+  
+  
+  
+  
+  
 
 
 
