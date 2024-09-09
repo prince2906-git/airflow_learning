@@ -42,7 +42,7 @@ Airflow : [Apache Airflow]
   Airflow is a open-source tool to programatically author, monitor and schedule **workflows**.
   It is robust platform used by Data engineers to orchastrate workflows or data piplines. 
   One can easily visulaize data pipline's:
-    Dependency, Proggress, Logs, Errors, Codes, Success and Failed status.
+    Dependency, Proggress, Logs, Errors, Code, Success and Failed status.
 
   From above defination, one question arieses, Workflow ? What is the workflow and what its significance in Airflow ?
 
