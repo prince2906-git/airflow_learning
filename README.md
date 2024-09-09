@@ -4,10 +4,10 @@
 
 This repository has been created to learn, code and deep dive to Airflow concepts, its uses and functioning, to enable effective and best way to use the Airflow with Python.
 
-How much python is required for Apache Airflow ?
+**How much python is required for Apache Airflow ?**
   This question often comes in mind of an individual, or a person who just started to learn, how much python they required to learn and start writing airflow dags ?
   For startup, we just need fundamental understanding of Python :
-  1. Basic Python syntax
+  **1. Basic Python syntax**
        Variables
        Datatypes
        functions
@@ -15,21 +15,21 @@ How much python is required for Apache Airflow ?
        conditionals
        Data Structure [list, tuple, string, set, dictonary]
 
-  2.  Modules and Libraries
+  **2.  Modules and Libraries**
         How to import and use various modules and libraries in Python ?
 
-  3.  Function and Classes
+  **3.  Function and Classes**
          Airflow task are often written as Python functions, so you need to know
             How to define function and use functions ?
             Familarity with OOPS programming in Python
 
-  4. File Handling
+  **4. File Handling**
        Reading & writing files
 
-  5.  Error Handling
+  **5.  Error Handling**
         How to handle exceptions in Python ?
 
-  6.  Airflow uses Jinja Templating, so basic templating knowledge can be helpful.
+  **6.  Airflow uses Jinja Templating**, so basic templating knowledge can be helpful.
 
 Before we start designing the airflow dags, lets first understand, 
   What is Airflow ? 
@@ -39,7 +39,7 @@ Before we start designing the airflow dags, lets first understand,
   Advantages and Disadvantages of Airflow ?
   Alternative of Airflow ?
 
-Airflow : [Apache Airflow]
+**Airflow : [Apache Airflow]**
   Airflow is a open-source tool to programatically author, monitor and schedule **workflows**.
   It is robust platform used by Data engineers to orchastrate workflows or data piplines. 
   One can easily visulaize data pipline's:
@@ -47,7 +47,7 @@ Airflow : [Apache Airflow]
 
   From above defination, one question arieses ? What is the workflow, data pipline and orchestrationand? what its significance in Airflow ?
 
-  Workflow : Its a system to manager repetative processes and task which occur in a partiular order. 
+ ** Workflow :** Its a system to manager repetative processes and task which occur in a partiular order. 
   In other words, It is a set of tasks and steps which can be scheduled, intiated, and monitored. 
   Workflows are used to process, build application and process data.
   Workflows can appear as a series of steps in a checklist, or as a diagram that visualizes those steps.
