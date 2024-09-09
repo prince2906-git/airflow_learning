@@ -62,10 +62,21 @@ Airflow : [Apache Airflow]
 
 In this workflow, the steps are “start”, “assign”, “resolve”, and “close”. The states are “open”, “assigned”, “pending”, “resolved”, and “closed”. Steps move the process from state to state along a path until the workflow is completed.
 
-    
 
-  Here are some benefits of using workflows in cloud computing: 
-  
+**What are the benefits of using workflows?**
+Workflows provide a set of repeatable steps and tasks that you can initiate, schedule, and monitor.
+
+You can visualize workflows for observation, validate the workflow’s correctness, and monitor the operations in the workflow.
+
+With workflows, businesses can achieve improved levels of reliability for distributed applications without adding additional complexity to their code. You can automate, optimize, and scale workflows at a granular level. 
+
+**What do workflows bring to application architecture?**
+Workflows promote logical separation between the control flow of your job's stepwise logic and the actual units of work that contain your unique business logic. With this division, you can manage, maintain, and scale the state machinery of your application separately from the core business logic.
+
+As your business requirements change, you can easily change application logic without changing the underlying state machinery, task dispatch, and flow control.
+
+**How do workflow services improve application architecture?**
+
   **Reduced errors:** Manual steps can lead to errors, which can be costly and slow down business processes. 
                        Workflow automation can help reduce errors and make systems more efficient. 
   
@@ -79,6 +90,23 @@ In this workflow, the steps are “start”, “assign”, “resolve”, and �
  
   **Increased focus:** Workflows can help employees focus on higher-value work
 
+
+**What are some common workflow use cases?**
+Workflows can help with any computational problem or business process that can be divided into a series of steps. Workflows simplify managing jobs with interdependencies. Common use cases include:
+
+**Application orchestration –** Coordinate loosely coupled microservices, each running in its own process and independently deployed, through communication of events. Combine serverless functions to build a web application with an asynchronous human approval step.
+
+**Data processing –** Consolidate data from multiple data sets into unified reports, refine and reduce large data sets into useful formats, or coordinate multi-step analytics and machine learning workflows.
+
+**DevOps and IT automation –** Build tools for continuous integration and deployment, or create event-driven applications that automatically respond to changes in infrastructure.
+
+**Ecommerce –** Automate mission-critical business processes, such as order fulfillment and inventory tracking.
+**Web applications –** Implement robust user registration processes and authentication, optionally integrating steps for auditing and enhanced security.
+**Machine learning –** Run extract, transform, and load (ETL) jobs to build, train, and deploy a machine learning model. For example, collecting and processing image data to detect objects within a video stream, to add bounding boxes, or to provide visual and metadata information for data cataloging.
+**Security automation –** Scheduled analysis or security incident response initiated by managed resource events, with customized workflows that invoke audit and notification steps depending on business rules.
+**Media processing –** Extract data from PDF documents or images for processing. Split and transcode video using massive parallelization. 
+
+  
   
   
 
