@@ -1,16 +1,6 @@
 # airflow_learning
-  ____________       _____________
- ____    |__( )_________  __/__  /________      __
-____  /| |_  /__  ___/_  /_ __  /_  __ \_ | /| / /
-___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
- _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
-Running the Gunicorn Server with:
-Workers: 4 sync
-Host: 0.0.0.0:8080
-Timeout: 120
-Logfiles: - -
-Access Logformat:
-=================================================================
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/fc448e81-d1b3-43c5-9447-a38ad235a108">
+
 
 This repository has been created to learn, code and deep dive to Airflow concepts, its uses and functioning, to enable effective and best way to use the Airflow with Python.
 
