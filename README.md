@@ -30,6 +30,8 @@ How much python is required for Apache Airflow ?
 
   6.  Airflow uses Jinja Templating, so basic templating knowledge can be helpful.
 
+Before starting the airflow, lets first 
+
 
 
      
