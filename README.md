@@ -52,7 +52,7 @@ Airflow : [Apache Airflow]
 
   Here are some benefits of using workflows in cloud computing: 
   
-  ** Reduced errors:** Manual steps can lead to errors, which can be costly and slow down business processes. 
+  **Reduced errors:** Manual steps can lead to errors, which can be costly and slow down business processes. 
                        Workflow automation can help reduce errors and make systems more efficient. 
   
   **Improved collaboration:** Workflows can help solve communication issues and improve collaboration. 
