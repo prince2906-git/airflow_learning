@@ -102,9 +102,13 @@ Workflows can help with any computational problem or business process that can b
 **DevOps and IT automation –** Build tools for continuous integration and deployment, or create event-driven applications that automatically respond to changes in infrastructure.
 
 **Ecommerce –** Automate mission-critical business processes, such as order fulfillment and inventory tracking.
+
 **Web applications –** Implement robust user registration processes and authentication, optionally integrating steps for auditing and enhanced security.
+
 **Machine learning –** Run extract, transform, and load (ETL) jobs to build, train, and deploy a machine learning model. For example, collecting and processing image data to detect objects within a video stream, to add bounding boxes, or to provide visual and metadata information for data cataloging.
+
 **Security automation –** Scheduled analysis or security incident response initiated by managed resource events, with customized workflows that invoke audit and notification steps depending on business rules.
+
 **Media processing –** Extract data from PDF documents or images for processing. Split and transcode video using massive parallelization. 
 
   
