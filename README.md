@@ -47,7 +47,7 @@ Before we start designing the airflow dags, lets first understand,
   One can easily visulaize data pipline's:
     Dependency, Proggress, Logs, Errors, Code, Success and Failed status.
 
-  From above defination, one question arieses ? What is the workflow, data pipline and orchestration and what its significance in Airflow ?
+  From above defination, one question arieses ? What is the workflow, data pipline and orchestration ?
 
  ** Workflow :** Its a system to manager repetative processes and task which occur in a partiular order. 
   In other words, It is a set of tasks and steps which can be scheduled, intiated, and monitored. 
