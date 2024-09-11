@@ -35,7 +35,7 @@ This repository has been created to learn, code and deep dive to Airflow concept
 
 Before we start designing the airflow dags, lets first understand, 
   What is Airflow ? 
-  What's before Airflow ?
+  How were data pipelines and workflows managed before Airflow ?
   What is the use of Airflow ?
   Applications of Airflow.
   Advantages and Disadvantages of Airflow ?
