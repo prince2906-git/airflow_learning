@@ -124,7 +124,6 @@ Azure - Azure Data Factory
     Orchestration is the coordinated execution of multiple IT automation tasks or processes. Orchestration is usually applied across multiple computer systems, applications, and services to ensure that deployment, configuration management, and other processes are performed in the proper sequence. 
 
 Orchestration allows IT teams to:
-
 >> Deploy applications more quickly and efficiently, resulting in improved customer experiences.
 
 >> Reduce menial tasks and processes to focus on more strategic activities.
