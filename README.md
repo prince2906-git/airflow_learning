@@ -10,11 +10,11 @@ This repository has been created to learn, code and deep dive to Airflow concept
   For startup, we just need fundamental understanding of Python :
   
   **1. Basic Python syntax**
-       Variables
-       Datatypes
-       functions
-       loops
-       conditionals
+       Variables,
+       Datatypes,
+       functions,
+       loops,
+       conditionals,
        Data Structure [list, tuple, string, set, dictonary]
 
   **2.  Modules and Libraries**
@@ -37,7 +37,7 @@ Before we start designing the airflow dags, lets first understand,
   What is Airflow ? 
   What's before Airflow ?
   What is the use of Airflow ?
-  Applications of Airflow ?
+  Applications of Airflow.
   Advantages and Disadvantages of Airflow ?
   Alternative of Airflow ?
 
@@ -47,7 +47,7 @@ Before we start designing the airflow dags, lets first understand,
   One can easily visulaize data pipline's:
     Dependency, Proggress, Logs, Errors, Code, Success and Failed status.
 
-  From above defination, one question arieses ? What is the workflow, data pipline and orchestrationand? what its significance in Airflow ?
+  From above defination, one question arieses ? What is the workflow, data pipline and orchestration and what its significance in Airflow ?
 
  ** Workflow :** Its a system to manager repetative processes and task which occur in a partiular order. 
   In other words, It is a set of tasks and steps which can be scheduled, intiated, and monitored. 
